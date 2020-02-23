@@ -1,13 +1,13 @@
 {
-  "name": "ngx-admin",
+  "name": "notes-frontend",
   "version": "4.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/ngx-admin.git"
+    "url": "git+https://github.com/fhanrath/Notes-Frontend.git"
   },
   "bugs": {
-    "url": "https://github.com/akveo/ngx-admin/issues"
+    "url": "https://github.com/fhanrath/Notes-Frontend/issues"
   },
   "scripts": {
     "ng": "ng",
